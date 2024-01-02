@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'karnak';
+    src: url("./fonts/karnakpro-condensedblack.ttf");
+}
+
+* {
+    margin: 0;
+    font-size: 40px;
+    letter-spacing: 1px;
+    font-family: 'karnak', sans-serif;
+}
